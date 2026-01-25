@@ -10,7 +10,7 @@ I believe in efficiency, clean code, and sustainable solutions—both in softwar
 
 * **Core:** Python 🐍, SQL (Veteran level)
 * **Focus:** Data Engineering, Backend Development, AI
-* **Tools:** Git, VS Code, (zde můžeš časem přidat Docker, Pandas, Azure...)
+* **Tools:** Git, VS Code, Pandas, ...)
 
 ---
 
