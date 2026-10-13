@@ -14,7 +14,7 @@
 
 ### 🚀 Featured Project
 
-#### [Real-Estate Watchdog](https://github.com/libor-konopka/real-estate-watchdog)
+#### [Real-Estate Watchdog](https://github.com/libor-konopka/real-estate-watchdog-v2)
 An asynchronous ELT pipeline implementing a local **Medallion Lakehouse Architecture**:
 - **Ingestion & Validation:** Asynchronous data collection (`aiohttp`) with strict runtime schema enforcement using `Pydantic`.
 - **Transformation:** Fast in-memory transformations and data profiling using `Polars`.
