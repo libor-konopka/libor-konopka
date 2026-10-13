@@ -7,7 +7,7 @@
 ### 🛠 Tech Stack
 
 - **Enterprise & Databases:** MS SQL Server, T-SQL, Query Tuning, Data Integrity, Windows Server
-- **Data Engineering & Python:** Python 3.12+, Polars, Pydantic, Apache Iceberg, Parquet
+- **Data Engineering & Python:** Python 3.14+, Polars, Pydantic, Apache Iceberg, Parquet
 - **DevOps & Tools:** Docker, Git, VS Code, UV, Streamlit
 
 ---
